@@ -42,4 +42,5 @@ using Power BI and Excel.
 
 ---
 
-*Built by Anisha G Poojary | Business Analytics, MAHE | 2026*
+*Built by **Anisha G Poojary** | BBA Business Analytics, MAHE | 2026*
+*LinkedIn: [anisha-poojary](https://linkedin.com/in/anisha-poojary-a4b6b2286) | Email: anishagpoojary16@gmail.com*
